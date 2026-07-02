@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/vikaspandayrk-cell.github.io/crypto-tracker-app/static/css/main.27b6c8e5.css",
+    "main.js": "/vikaspandayrk-cell.github.io/crypto-tracker-app/static/js/main.e396f98c.js",
+    "index.html": "/vikaspandayrk-cell.github.io/crypto-tracker-app/index.html",
+    "main.27b6c8e5.css.map": "/vikaspandayrk-cell.github.io/crypto-tracker-app/static/css/main.27b6c8e5.css.map",
+    "main.e396f98c.js.map": "/vikaspandayrk-cell.github.io/crypto-tracker-app/static/js/main.e396f98c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27b6c8e5.css",
+    "static/js/main.e396f98c.js"
+  ]
+}
